@@ -1,0 +1,7 @@
+shadow prebuilt repo: clang-r510928 (host toolchain)
+  upstream: prebuilts/clang/host/linux-x86/clang-r510928
+  role: host
+  api-level: universal (branch universal-20261014; host clang toolchain is API-agnostic)
+  layout: Clang/LLVM 18 toolchain (ClangDefaultVersion = clang-r510928)
+  sync path: prebuilts/host/clang/host/linux-x86/clang-r510928 (with compat link to prebuilts/clang/host/linux-x86/clang-r510928)
+  date: 2026-10-14
